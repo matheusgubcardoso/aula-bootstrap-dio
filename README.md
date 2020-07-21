@@ -1,2 +1,2 @@
 # aula-bootstrap-dio
-Utilizando Bootstrap 
+Utilizando Bootstrap para realizar um layout para uma página em HTML.
